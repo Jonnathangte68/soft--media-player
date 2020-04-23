@@ -16,6 +16,7 @@ All contributions are accepted, the the idea is to encompass all the new feature
   - Investigate and add support to missing formats.
   - Add a chromecast functionallity and make it intuitive.
   - Add options to interact with OS like reproduce everyday at 3am on the morning.
+  - Add public content without copyright like memes, movies, podcast and music recommended to the user.
 
 # License
 
